@@ -1,1 +1,1 @@
-x
+## VSC Docker Extension Template
